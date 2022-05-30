@@ -108,6 +108,9 @@ body {
   margin: 0;
   padding: 0;
 }
+.header-contact-item{
+  color: var(--gray-color);
+}
 .header-contact-item:not(:first-child) {
   margin-left: 50px;
 }
